@@ -1,2 +1,4 @@
 # tank
- tanks game for a hackathon
+Компьютерная игра Shell Duel.
+Команда МАЛые.
+Компания  «Гейм Инсайт».
